@@ -1,0 +1,15 @@
+{
+  "name": "kazna",
+  "version": "1.0.0",
+  "source": "lib/kazna.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
